@@ -39,8 +39,8 @@ A voice-controlled AI assistant that responds to your voice queries with intelli
    ```bash
    npm start
 
-Free GitHub models: 
+Free GitHub models: https://github.com/marketplace/models
 
-         https://github.com/marketplace/models
+         
        
    
