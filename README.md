@@ -31,12 +31,16 @@ A voice-controlled AI assistant that responds to your voice queries with intelli
 3. Install dependencies:
    ```bash
    npm install
-4. In the config.js js file add your GITHUB_TOKEN:
+4. In the config.js js file add your GITHUB_TOKEN from free Gitub models url:
    ```bash
    export const token = "your_github_token_here";
 
 5. Start the development server:
    ```bash
    npm start
+
+Free GitHub models: 
+
+         https://github.com/marketplace/models
        
    
