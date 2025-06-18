@@ -1,6 +1,7 @@
 # AI Voice Assistant
 
 A voice-controlled AI assistant that responds to your voice queries with intelligent answers. Built with React and OpenAI.
+
 Live Demo: 
 
 ## Features
