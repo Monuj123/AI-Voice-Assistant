@@ -33,7 +33,7 @@ Live Demo:
 3. Install dependencies:
    ```bash
    npm install
-4. In the config.js js file add your GITHUB_TOKEN from free Github models url:
+4. In the config.js file add your GITHUB_TOKEN from free Github models url:
    ```bash
    export const token = "your_github_token_here";
 
