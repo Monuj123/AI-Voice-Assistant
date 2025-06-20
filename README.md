@@ -35,7 +35,7 @@ Live Demo: https://aivoicebot007.netlify.app/
    npm install
 4. In the config.js file add your GITHUB_TOKEN from Free Github Models in the Url below:
    ```bash
-   export const token = "your_github_token_here";
+   export const token = "your_github_token_here"
 
 5. Start the development server:
    ```bash
